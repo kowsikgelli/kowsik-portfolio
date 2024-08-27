@@ -24,7 +24,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: 'Resume',
-    link: '/ethan_weiner_resume.pdf',
+    link: '/kowsikgelli-resume.pdf',
   },
 ];
 
